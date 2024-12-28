@@ -10,5 +10,6 @@ To enhance my practical skills in Data Analytics, I aim to gain a comprehensive 
 ## License
 
 © 2024 Shreyaasri Prakash (shreyaa.prakash2015@gmail.com)  
+The code is distributed under the conditions of the MIT License.
 
 
